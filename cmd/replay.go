@@ -23,8 +23,9 @@ var (
 	traceHeaderPath   string
 	traceDataPath     string
 	replayTraceOutput string // File prefix for TraceV2 re-export (<prefix>.yaml + <prefix>.csv)
-	replaySessionMode string
-	replayThinkTimeMs int
+	replaySessionMode   string
+	replayThinkTimeMs   int
+	replayThinkTimeMode string
 )
 
 var replayCmd = &cobra.Command{
@@ -89,20 +90,43 @@ Example:
 		if replayThinkTimeMs > 0 && replaySessionMode != "closed-loop" {
 			logrus.Fatalf("--think-time-ms requires --session-mode closed-loop")
 		}
+		if replayThinkTimeMode != "constant" && replayThinkTimeMode != "lognormal" {
+			logrus.Fatalf("--think-time-mode must be \"constant\" or \"lognormal\", got %q", replayThinkTimeMode)
+		}
+		if replayThinkTimeMode == "lognormal" && replaySessionMode != "closed-loop" {
+			logrus.Fatalf("--think-time-mode lognormal requires --session-mode closed-loop")
+		}
+		if replayThinkTimeMode == "lognormal" && replayThinkTimeMs != 0 {
+			logrus.Fatalf("--think-time-mode lognormal and --think-time-ms are mutually exclusive")
+		}
 
 		// Build requests from trace — mode selects pre-baked vs closed-loop (BC-8, BC-9)
 		var requests []*sim.Request
 		var sessionMgr *workload.SessionManager
 		if replaySessionMode == "closed-loop" {
 			// Closed-loop: inject only round-0 requests; SessionManager drives follow-ups.
+			// Build the think-time sampler: lognormal (real-system params), constant, or nil
+			// (derive from trace inter-round arrival gaps).
+			var thinkTimeSampler workload.LengthSampler
+			switch {
+			case replayThinkTimeMode == "lognormal":
+				// Real-system inter-turn delay: lognormal(mu=2.0, sigma=0.6) in seconds,
+				// clamped to [3s, 30s] — matches send_swe_smith_multiple_trajectory.py.
+				thinkTimeSampler = workload.NewLognormalThinkTimeSampler(2.0, 0.6, 3_000_000, 30_000_000)
+				logrus.Infof("Think-time mode: lognormal (mu=2.0, sigma=0.6, min=3s, max=30s)")
+			case replayThinkTimeMs > 0:
+				thinkTimeSampler = workload.NewConstantThinkTimeSampler(int64(replayThinkTimeMs) * 1000)
+				logrus.Infof("Think-time mode: constant %dms", replayThinkTimeMs)
+			default:
+				logrus.Infof("Think-time mode: derive from trace inter-round arrival gaps")
+			}
 			// Compute the preliminary horizon from trace records directly (O(n)) so we can
 			// call LoadTraceV2SessionBlueprints exactly once with correct parameters.
-			thinkTimeUs := int64(replayThinkTimeMs) * 1000
 			replayHorizonPrelim := computeHorizonFromMaxArrival(maxInjectedArrivalTimeUs(traceData))
 			if cmd.Flags().Changed("horizon") {
 				replayHorizonPrelim = simulationHorizon
 			}
-			r0Requests, blueprints, bErr := workload.LoadTraceV2SessionBlueprints(traceData, seed, thinkTimeUs, replayHorizonPrelim)
+			r0Requests, blueprints, bErr := workload.LoadTraceV2SessionBlueprints(traceData, seed, thinkTimeSampler, replayHorizonPrelim)
 			if bErr != nil {
 				logrus.Fatalf("Failed to build session blueprints from trace: %v", bErr)
 			}
@@ -331,7 +355,8 @@ func init() {
 	replayCmd.Flags().StringVar(&resultsPath, "results-path", "", "File to write []SimResult JSON (request_id, ttft_us, e2e_us, input_tokens, output_tokens) for blis calibrate consumption.")
 	replayCmd.Flags().StringVar(&replayTraceOutput, "trace-output", "", "Export replay results as TraceV2 files (<prefix>.yaml + <prefix>.csv); header mode is \"replayed\"")
 	replayCmd.Flags().StringVar(&replaySessionMode, "session-mode", "fixed", `Session replay mode: "fixed" (pre-baked arrivals from trace) or "closed-loop" (load-adaptive follow-ups via SessionManager)`)
-	replayCmd.Flags().IntVar(&replayThinkTimeMs, "think-time-ms", 0, "Override think time between session rounds in milliseconds (0 = derive from trace inter-round arrival gaps, which include prior-round service time — use this flag to supply the actual client-side think time; requires --session-mode closed-loop)")
+	replayCmd.Flags().IntVar(&replayThinkTimeMs, "think-time-ms", 0, "Override think time between session rounds in milliseconds (0 = derive from trace inter-round arrival gaps; requires --session-mode closed-loop)")
+	replayCmd.Flags().StringVar(&replayThinkTimeMode, "think-time-mode", "constant", `Think-time distribution for closed-loop replay: "constant" (use --think-time-ms or derive from trace) or "lognormal" (lognormal(mu=2.0,sigma=0.6) clamped to [3s,30s], matching real SWE-Smith system; mutually exclusive with --think-time-ms)`)
 	rootCmd.AddCommand(replayCmd)
 }
 

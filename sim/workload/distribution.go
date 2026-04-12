@@ -152,6 +152,44 @@ func (s *ConstantSampler) Sample(_ *rand.Rand) int {
 	return s.value
 }
 
+// NewConstantThinkTimeSampler creates a ConstantSampler for a fixed think time.
+// Convenience constructor for replay wiring; us is in microseconds.
+func NewConstantThinkTimeSampler(us int64) *ConstantSampler {
+	return &ConstantSampler{value: int(us)}
+}
+
+// LognormalThinkTimeSampler samples inter-round think times from a lognormal
+// distribution, clamped to [minUs, maxUs]. Values are in microseconds.
+//
+// Canonical params for SWE-Smith workload (from send_swe_smith_multiple_trajectory.py):
+//
+//	mu=2.0, sigma=0.6 (in seconds), min=3s, max=30s
+//	→ minUs=3_000_000, maxUs=30_000_000
+type LognormalThinkTimeSampler struct {
+	mu    float64 // mean of ln(seconds)
+	sigma float64 // std dev of ln(seconds)
+	minUs int64   // minimum think time in µs
+	maxUs int64   // maximum think time in µs
+}
+
+// NewLognormalThinkTimeSampler creates a sampler with the given lognormal
+// parameters (in seconds) and clamp bounds (in microseconds).
+func NewLognormalThinkTimeSampler(mu, sigma float64, minUs, maxUs int64) *LognormalThinkTimeSampler {
+	return &LognormalThinkTimeSampler{mu: mu, sigma: sigma, minUs: minUs, maxUs: maxUs}
+}
+
+func (s *LognormalThinkTimeSampler) Sample(rng *rand.Rand) int {
+	seconds := math.Exp(s.mu + s.sigma*rng.NormFloat64())
+	us := int64(seconds * 1e6)
+	if us < s.minUs {
+		us = s.minUs
+	}
+	if us > s.maxUs {
+		us = s.maxUs
+	}
+	return int(us)
+}
+
 // SequenceSampler replays a pre-recorded sequence of values in order.
 // Used for trace replay where token counts are known per-round.
 // Wraps to the beginning when the sequence is exhausted.

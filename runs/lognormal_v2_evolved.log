@@ -1,0 +1,211 @@
+time="2026-04-13T22:20:49+03:00" level=warning msg="Finding default values of vLLM version for model=mistralai/mistral-small-24b-instruct-2501"
+time="2026-04-13T22:20:49+03:00" level=warning msg="Using default vLLM version=vllm/vllm-openai:v0.8.4"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_pygments__pygments.27649ebb.pr_2474.5fyjc736_round_12_1685"
+time="2026-04-13T22:20:50+03:00" level=warning msg="[tick 172588818] preemption: evicting session_pygments__pygments.27649ebb.pr_2474.5fyjc736_round_12_1685 to make room"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pygments__pygments.27649ebb.pr_2474.5fyjc736_round_12_1685"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pygments__pygments.27649ebb.pr_2474.5fyjc736_round_12_1685"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pygments__pygments.27649ebb.pr_2474.5fyjc736_round_12_1685"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pygments__pygments.27649ebb.pr_2474.5fyjc736_round_12_1685"
+time="2026-04-13T22:20:50+03:00" level=warning msg="[tick 174148414] preemption: evicting session_pygments__pygments.27649ebb.pr_2474.5fyjc736_round_12_1685 to make room"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_conan-io__conan.86f29e13.pr_14776.mr84oqlq_round_10_1920"
+time="2026-04-13T22:20:50+03:00" level=warning msg="[tick 228889396] preemption: evicting session_conan-io__conan.86f29e13.pr_14776.mr84oqlq_round_10_1920 to make room"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.pr_9212.pv6aoek3_round_10_1954"
+time="2026-04-13T22:20:50+03:00" level=warning msg="[tick 230436846] preemption: evicting session_iterative__dvc.1d6ea681.pr_9212.pv6aoek3_round_10_1954 to make room"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026"
+time="2026-04-13T22:20:50+03:00" level=warning msg="[tick 266757561] preemption: evicting session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026 to make room"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026"
+time="2026-04-13T22:20:50+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026"
+time="2026-04-13T22:20:50+03:00" level=warning msg="[tick 267606215] preemption: evicting session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_11_2026 to make room"
+time="2026-04-13T22:20:51+03:00" level=warning msg="KV cache full: cannot allocate 19 new blocks for req session_theskumar__python-dotenv.2b8635b7.lm_rewrite__gklwunnc.g25l0zlv_round_13_2332"
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_0",
+  "completed_requests": 730,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 730,
+  "total_input_tokens": 10369134,
+  "total_output_tokens": 137457,
+  "vllm_estimated_duration_s": 1006.919601,
+  "responses_per_sec": 0.7249834041119237,
+  "tokens_per_sec": 136.51238873837357,
+  "e2e_mean_ms": 24175.869839726027,
+  "e2e_p90_ms": 64862.3965,
+  "e2e_p95_ms": 98139.68989999997,
+  "e2e_p99_ms": 216610.45776999995,
+  "ttft_mean_ms": 6823.33518630137,
+  "ttft_p90_ms": 26813.370700000003,
+  "ttft_p95_ms": 38133.985,
+  "ttft_p99_ms": 53203.81278,
+  "itl_mean_ms": 92.15500336105109,
+  "itl_p90_ms": 401.484,
+  "itl_p95_ms": 401.827,
+  "itl_p99_ms": 403.025,
+  "scheduling_delay_p99_ms": 50312.43124,
+  "preemption_count": 0,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_1",
+  "completed_requests": 801,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 801,
+  "total_input_tokens": 11159257,
+  "total_output_tokens": 141730,
+  "vllm_estimated_duration_s": 970.49152,
+  "responses_per_sec": 0.8253549706441535,
+  "tokens_per_sec": 146.03940073582507,
+  "e2e_mean_ms": 18650.914205992507,
+  "e2e_p90_ms": 42228.054,
+  "e2e_p95_ms": 59440.62,
+  "e2e_p99_ms": 132256.261,
+  "ttft_mean_ms": 4114.161549313359,
+  "ttft_p90_ms": 11118.711,
+  "ttft_p95_ms": 14780.051,
+  "ttft_p99_ms": 26499.069,
+  "itl_mean_ms": 82.15578126014252,
+  "itl_p90_ms": 400.799,
+  "itl_p95_ms": 401.827,
+  "itl_p99_ms": 403.71,
+  "scheduling_delay_p99_ms": 23799.717,
+  "preemption_count": 0,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_2",
+  "completed_requests": 733,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 733,
+  "total_input_tokens": 11140882,
+  "total_output_tokens": 134840,
+  "vllm_estimated_duration_s": 1008.335032,
+  "responses_per_sec": 0.7269409241352234,
+  "tokens_per_sec": 133.7253945571535,
+  "e2e_mean_ms": 20141.103813096863,
+  "e2e_p90_ms": 51225.97080000001,
+  "e2e_p95_ms": 90307.43899999993,
+  "e2e_p99_ms": 132930.65431999997,
+  "ttft_mean_ms": 5038.510967257845,
+  "ttft_p90_ms": 16628.305400000016,
+  "ttft_p95_ms": 24139.30139999998,
+  "ttft_p99_ms": 33242.2636,
+  "itl_mean_ms": 82.09878786710175,
+  "itl_p90_ms": 401.484,
+  "itl_p95_ms": 402.169,
+  "itl_p99_ms": 403.539,
+  "scheduling_delay_p99_ms": 30256.883239999992,
+  "preemption_count": 2,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_3",
+  "completed_requests": 814,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 814,
+  "total_input_tokens": 10528200,
+  "total_output_tokens": 138016,
+  "vllm_estimated_duration_s": 898.194405,
+  "responses_per_sec": 0.9062626035841317,
+  "tokens_per_sec": 153.65938513054977,
+  "e2e_mean_ms": 15850.848195331695,
+  "e2e_p90_ms": 37827.82710000001,
+  "e2e_p95_ms": 58210.452649999934,
+  "e2e_p99_ms": 127573.04420999996,
+  "ttft_mean_ms": 3226.23771990172,
+  "ttft_p90_ms": 8603.9888,
+  "ttft_p95_ms": 12955.76799999999,
+  "ttft_p99_ms": 21054.959059999997,
+  "itl_mean_ms": 74.45827242493624,
+  "itl_p90_ms": 400.457,
+  "itl_p95_ms": 401.827,
+  "itl_p99_ms": 403.539,
+  "scheduling_delay_p99_ms": 18362.981009999996,
+  "preemption_count": 4,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_4",
+  "completed_requests": 759,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 759,
+  "total_input_tokens": 11799808,
+  "total_output_tokens": 130412,
+  "vllm_estimated_duration_s": 998.63683,
+  "responses_per_sec": 0.7600360583536659,
+  "tokens_per_sec": 130.59001639264596,
+  "e2e_mean_ms": 16121.312221343873,
+  "e2e_p90_ms": 39413.35820000002,
+  "e2e_p95_ms": 54590.49909999999,
+  "e2e_p99_ms": 82517.58611999999,
+  "ttft_mean_ms": 3891.8903175230566,
+  "ttft_p90_ms": 10932.858400000001,
+  "ttft_p95_ms": 14283.06079999999,
+  "ttft_p99_ms": 19162.63364,
+  "itl_mean_ms": 71.17543803484342,
+  "itl_p90_ms": 400.628,
+  "itl_p95_ms": 402.169,
+  "itl_p99_ms": 404.053,
+  "scheduling_delay_p99_ms": 18204.864039999997,
+  "preemption_count": 0,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "cluster",
+  "completed_requests": 3837,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 3837,
+  "total_input_tokens": 54997281,
+  "total_output_tokens": 682455,
+  "vllm_estimated_duration_s": 1008.335032,
+  "responses_per_sec": 3.80528284571194,
+  "tokens_per_sec": 676.8137358536205,
+  "e2e_mean_ms": 18892.328059421423,
+  "e2e_p90_ms": 46394.6564,
+  "e2e_p95_ms": 71573.7995999999,
+  "e2e_p99_ms": 135913.4846,
+  "ttft_mean_ms": 4573.836038832422,
+  "ttft_p90_ms": 12003.844800000003,
+  "ttft_p95_ms": 20376.82099999998,
+  "ttft_p99_ms": 38092.51132,
+  "itl_mean_ms": 80.50355537434702,
+  "itl_p90_ms": 400.97,
+  "itl_p95_ms": 401.998,
+  "itl_p99_ms": 403.71,
+  "scheduling_delay_p99_ms": 33785.72552,
+  "preemption_count": 6,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== KV Cache Metrics ===
+Preemption Rate: 0.0016
+Cache Hit Rate: 0.7725
+KV Thrashing Rate: 0.0000

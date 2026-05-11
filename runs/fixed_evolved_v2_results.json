@@ -1,0 +1,1402 @@
+[
+  {
+    "request_id": 0,
+    "ttft_us": 1840232,
+    "e2e_us": 8113135,
+    "input_tokens": 1586,
+    "output_tokens": 101
+  },
+  {
+    "request_id": 20,
+    "ttft_us": 4128495,
+    "e2e_us": 8364922,
+    "input_tokens": 1669,
+    "output_tokens": 112
+  },
+  {
+    "request_id": 45,
+    "ttft_us": 1451462,
+    "e2e_us": 7099973,
+    "input_tokens": 1514,
+    "output_tokens": 78
+  },
+  {
+    "request_id": 60,
+    "ttft_us": 3370515,
+    "e2e_us": 7549443,
+    "input_tokens": 1651,
+    "output_tokens": 81
+  },
+  {
+    "request_id": 70,
+    "ttft_us": 1837135,
+    "e2e_us": 7142475,
+    "input_tokens": 1601,
+    "output_tokens": 59
+  },
+  {
+    "request_id": 85,
+    "ttft_us": 295579,
+    "e2e_us": 7278957,
+    "input_tokens": 1389,
+    "output_tokens": 71
+  },
+  {
+    "request_id": 98,
+    "ttft_us": 1443333,
+    "e2e_us": 7963759,
+    "input_tokens": 1560,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 115,
+    "ttft_us": 2605328,
+    "e2e_us": 8053015,
+    "input_tokens": 1599,
+    "output_tokens": 113
+  },
+  {
+    "request_id": 128,
+    "ttft_us": 2603497,
+    "e2e_us": 8038041,
+    "input_tokens": 1605,
+    "output_tokens": 100
+  },
+  {
+    "request_id": 146,
+    "ttft_us": 1451828,
+    "e2e_us": 9201223,
+    "input_tokens": 1589,
+    "output_tokens": 137
+  },
+  {
+    "request_id": 172,
+    "ttft_us": 4903680,
+    "e2e_us": 8205104,
+    "input_tokens": 1731,
+    "output_tokens": 102
+  },
+  {
+    "request_id": 195,
+    "ttft_us": 2213091,
+    "e2e_us": 8429777,
+    "input_tokens": 1597,
+    "output_tokens": 116
+  },
+  {
+    "request_id": 220,
+    "ttft_us": 2988923,
+    "e2e_us": 6732876,
+    "input_tokens": 1603,
+    "output_tokens": 63
+  },
+  {
+    "request_id": 229,
+    "ttft_us": 4517189,
+    "e2e_us": 7999907,
+    "input_tokens": 1738,
+    "output_tokens": 97
+  },
+  {
+    "request_id": 247,
+    "ttft_us": 3755963,
+    "e2e_us": 8249897,
+    "input_tokens": 1682,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 275,
+    "ttft_us": 4903680,
+    "e2e_us": 7461422,
+    "input_tokens": 1743,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 304,
+    "ttft_us": 2597199,
+    "e2e_us": 7829205,
+    "input_tokens": 1618,
+    "output_tokens": 93
+  },
+  {
+    "request_id": 333,
+    "ttft_us": 1836598,
+    "e2e_us": 7878529,
+    "input_tokens": 1576,
+    "output_tokens": 107
+  },
+  {
+    "request_id": 354,
+    "ttft_us": 2219218,
+    "e2e_us": 7069098,
+    "input_tokens": 1602,
+    "output_tokens": 64
+  },
+  {
+    "request_id": 363,
+    "ttft_us": 679501,
+    "e2e_us": 8263536,
+    "input_tokens": 1500,
+    "output_tokens": 102
+  },
+  {
+    "request_id": 389,
+    "ttft_us": 1454925,
+    "e2e_us": 7411784,
+    "input_tokens": 1577,
+    "output_tokens": 75
+  },
+  {
+    "request_id": 401,
+    "ttft_us": 1057512,
+    "e2e_us": 8484473,
+    "input_tokens": 1515,
+    "output_tokens": 119
+  },
+  {
+    "request_id": 415,
+    "ttft_us": 679307,
+    "e2e_us": 6976097,
+    "input_tokens": 1443,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 442,
+    "ttft_us": 3370515,
+    "e2e_us": 7362643,
+    "input_tokens": 1644,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 470,
+    "ttft_us": 2221928,
+    "e2e_us": 8137652,
+    "input_tokens": 1604,
+    "output_tokens": 96
+  },
+  {
+    "request_id": 498,
+    "ttft_us": 3375980,
+    "e2e_us": 7347373,
+    "input_tokens": 1642,
+    "output_tokens": 71
+  },
+  {
+    "request_id": 514,
+    "ttft_us": 4510035,
+    "e2e_us": 8188683,
+    "input_tokens": 1715,
+    "output_tokens": 105
+  },
+  {
+    "request_id": 531,
+    "ttft_us": 1065641,
+    "e2e_us": 5939318,
+    "input_tokens": 1489,
+    "output_tokens": 35
+  },
+  {
+    "request_id": 538,
+    "ttft_us": 4135478,
+    "e2e_us": 8097594,
+    "input_tokens": 1727,
+    "output_tokens": 101
+  },
+  {
+    "request_id": 564,
+    "ttft_us": 2221928,
+    "e2e_us": 8296423,
+    "input_tokens": 1605,
+    "output_tokens": 102
+  },
+  {
+    "request_id": 592,
+    "ttft_us": 2992899,
+    "e2e_us": 8084924,
+    "input_tokens": 1625,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 616,
+    "ttft_us": 1443333,
+    "e2e_us": 7963759,
+    "input_tokens": 1567,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 635,
+    "ttft_us": 1836598,
+    "e2e_us": 8089479,
+    "input_tokens": 1587,
+    "output_tokens": 115
+  },
+  {
+    "request_id": 651,
+    "ttft_us": 1449118,
+    "e2e_us": 8278132,
+    "input_tokens": 1589,
+    "output_tokens": 110
+  },
+  {
+    "request_id": 676,
+    "ttft_us": 4901267,
+    "e2e_us": 7585361,
+    "input_tokens": 1836,
+    "output_tokens": 73
+  },
+  {
+    "request_id": 693,
+    "ttft_us": 3375980,
+    "e2e_us": 7400815,
+    "input_tokens": 1653,
+    "output_tokens": 73
+  },
+  {
+    "request_id": 700,
+    "ttft_us": 1443333,
+    "e2e_us": 7937163,
+    "input_tokens": 1568,
+    "output_tokens": 98
+  },
+  {
+    "request_id": 717,
+    "ttft_us": 1065641,
+    "e2e_us": 7011363,
+    "input_tokens": 1498,
+    "output_tokens": 75
+  },
+  {
+    "request_id": 733,
+    "ttft_us": 2219218,
+    "e2e_us": 8188754,
+    "input_tokens": 1601,
+    "output_tokens": 106
+  },
+  {
+    "request_id": 756,
+    "ttft_us": 4138188,
+    "e2e_us": 7595229,
+    "input_tokens": 1686,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 779,
+    "ttft_us": 1069104,
+    "e2e_us": 8069963,
+    "input_tokens": 1534,
+    "output_tokens": 100
+  },
+  {
+    "request_id": 798,
+    "ttft_us": 2980794,
+    "e2e_us": 7731017,
+    "input_tokens": 1648,
+    "output_tokens": 89
+  },
+  {
+    "request_id": 816,
+    "ttft_us": 2221220,
+    "e2e_us": 7010123,
+    "input_tokens": 1596,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 832,
+    "ttft_us": 2219218,
+    "e2e_us": 7229928,
+    "input_tokens": 1602,
+    "output_tokens": 70
+  },
+  {
+    "request_id": 845,
+    "ttft_us": 1066007,
+    "e2e_us": 8351119,
+    "input_tokens": 1542,
+    "output_tokens": 105
+  },
+  {
+    "request_id": 862,
+    "ttft_us": 2609304,
+    "e2e_us": 7997035,
+    "input_tokens": 1605,
+    "output_tokens": 96
+  },
+  {
+    "request_id": 877,
+    "ttft_us": 3746442,
+    "e2e_us": 7614555,
+    "input_tokens": 1652,
+    "output_tokens": 84
+  },
+  {
+    "request_id": 901,
+    "ttft_us": 2605328,
+    "e2e_us": 7789261,
+    "input_tokens": 1601,
+    "output_tokens": 103
+  },
+  {
+    "request_id": 918,
+    "ttft_us": 4517189,
+    "e2e_us": 8237940,
+    "input_tokens": 1755,
+    "output_tokens": 106
+  },
+  {
+    "request_id": 944,
+    "ttft_us": 3755963,
+    "e2e_us": 7506881,
+    "input_tokens": 1672,
+    "output_tokens": 71
+  },
+  {
+    "request_id": 951,
+    "ttft_us": 4140772,
+    "e2e_us": 8083156,
+    "input_tokens": 1678,
+    "output_tokens": 98
+  },
+  {
+    "request_id": 972,
+    "ttft_us": 4510035,
+    "e2e_us": 8030133,
+    "input_tokens": 1680,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 992,
+    "ttft_us": 4136111,
+    "e2e_us": 6999015,
+    "input_tokens": 1669,
+    "output_tokens": 72
+  },
+  {
+    "request_id": 1001,
+    "ttft_us": 2603497,
+    "e2e_us": 7345623,
+    "input_tokens": 1603,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 1030,
+    "ttft_us": 2989973,
+    "e2e_us": 8233515,
+    "input_tokens": 1641,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 1052,
+    "ttft_us": 1454925,
+    "e2e_us": 8632448,
+    "input_tokens": 1581,
+    "output_tokens": 121
+  },
+  {
+    "request_id": 1079,
+    "ttft_us": 2213091,
+    "e2e_us": 8377113,
+    "input_tokens": 1600,
+    "output_tokens": 114
+  },
+  {
+    "request_id": 1105,
+    "ttft_us": 679307,
+    "e2e_us": 7083051,
+    "input_tokens": 1456,
+    "output_tokens": 78
+  },
+  {
+    "request_id": 1121,
+    "ttft_us": 1063297,
+    "e2e_us": 8322808,
+    "input_tokens": 1517,
+    "output_tokens": 112
+  },
+  {
+    "request_id": 1133,
+    "ttft_us": 1066007,
+    "e2e_us": 7714475,
+    "input_tokens": 1574,
+    "output_tokens": 81
+  },
+  {
+    "request_id": 1142,
+    "ttft_us": 2992899,
+    "e2e_us": 7898973,
+    "input_tokens": 1637,
+    "output_tokens": 92
+  },
+  {
+    "request_id": 1159,
+    "ttft_us": 671178,
+    "e2e_us": 7412924,
+    "input_tokens": 1373,
+    "output_tokens": 79
+  },
+  {
+    "request_id": 1182,
+    "ttft_us": 1451462,
+    "e2e_us": 7099973,
+    "input_tokens": 1575,
+    "output_tokens": 78
+  },
+  {
+    "request_id": 1188,
+    "ttft_us": 5279241,
+    "e2e_us": 8201476,
+    "input_tokens": 1933,
+    "output_tokens": 104
+  },
+  {
+    "request_id": 1211,
+    "ttft_us": 292482,
+    "e2e_us": 7644248,
+    "input_tokens": 1373,
+    "output_tokens": 79
+  },
+  {
+    "request_id": 1237,
+    "ttft_us": 1069104,
+    "e2e_us": 8229012,
+    "input_tokens": 1566,
+    "output_tokens": 106
+  },
+  {
+    "request_id": 1260,
+    "ttft_us": 4891061,
+    "e2e_us": 7453099,
+    "input_tokens": 1773,
+    "output_tokens": 77
+  },
+  {
+    "request_id": 1275,
+    "ttft_us": 2988923,
+    "e2e_us": 6652503,
+    "input_tokens": 1601,
+    "output_tokens": 60
+  },
+  {
+    "request_id": 1288,
+    "ttft_us": 3753253,
+    "e2e_us": 7371132,
+    "input_tokens": 1667,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 1312,
+    "ttft_us": 2606207,
+    "e2e_us": 8357369,
+    "input_tokens": 1623,
+    "output_tokens": 104
+  },
+  {
+    "request_id": 1328,
+    "ttft_us": 1069104,
+    "e2e_us": 7456765,
+    "input_tokens": 1530,
+    "output_tokens": 77
+  },
+  {
+    "request_id": 1338,
+    "ttft_us": 2980794,
+    "e2e_us": 8155989,
+    "input_tokens": 1648,
+    "output_tokens": 105
+  },
+  {
+    "request_id": 1357,
+    "ttft_us": 3754229,
+    "e2e_us": 7336497,
+    "input_tokens": 1647,
+    "output_tokens": 85
+  },
+  {
+    "request_id": 1383,
+    "ttft_us": 4135478,
+    "e2e_us": 8361542,
+    "input_tokens": 1680,
+    "output_tokens": 111
+  },
+  {
+    "request_id": 1412,
+    "ttft_us": 4138188,
+    "e2e_us": 7488649,
+    "input_tokens": 1700,
+    "output_tokens": 70
+  },
+  {
+    "request_id": 1427,
+    "ttft_us": 3758547,
+    "e2e_us": 8365212,
+    "input_tokens": 1672,
+    "output_tokens": 109
+  },
+  {
+    "request_id": 1440,
+    "ttft_us": 1828469,
+    "e2e_us": 8078288,
+    "input_tokens": 1583,
+    "output_tokens": 103
+  },
+  {
+    "request_id": 1461,
+    "ttft_us": 1065641,
+    "e2e_us": 7729735,
+    "input_tokens": 1502,
+    "output_tokens": 102
+  },
+  {
+    "request_id": 1482,
+    "ttft_us": 1834425,
+    "e2e_us": 8021409,
+    "input_tokens": 1599,
+    "output_tokens": 100
+  },
+  {
+    "request_id": 1497,
+    "ttft_us": 2989973,
+    "e2e_us": 7570025,
+    "input_tokens": 1644,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 1516,
+    "ttft_us": 2609304,
+    "e2e_us": 8023617,
+    "input_tokens": 1614,
+    "output_tokens": 97
+  },
+  {
+    "request_id": 1542,
+    "ttft_us": 5431952,
+    "e2e_us": 7443342,
+    "input_tokens": 3440,
+    "output_tokens": 76
+  },
+  {
+    "request_id": 1566,
+    "ttft_us": 4898677,
+    "e2e_us": 7148821,
+    "input_tokens": 1812,
+    "output_tokens": 77
+  },
+  {
+    "request_id": 1595,
+    "ttft_us": 3370515,
+    "e2e_us": 7522777,
+    "input_tokens": 1645,
+    "output_tokens": 80
+  },
+  {
+    "request_id": 1612,
+    "ttft_us": 1066007,
+    "e2e_us": 7581035,
+    "input_tokens": 1575,
+    "output_tokens": 76
+  },
+  {
+    "request_id": 1626,
+    "ttft_us": 5284535,
+    "e2e_us": 7496563,
+    "input_tokens": 1824,
+    "output_tokens": 75
+  },
+  {
+    "request_id": 1652,
+    "ttft_us": 1443333,
+    "e2e_us": 7322906,
+    "input_tokens": 1558,
+    "output_tokens": 75
+  },
+  {
+    "request_id": 1680,
+    "ttft_us": 3754229,
+    "e2e_us": 7734565,
+    "input_tokens": 1644,
+    "output_tokens": 100
+  },
+  {
+    "request_id": 1704,
+    "ttft_us": 5279241,
+    "e2e_us": 8359470,
+    "input_tokens": 1843,
+    "output_tokens": 110
+  },
+  {
+    "request_id": 1726,
+    "ttft_us": 2221928,
+    "e2e_us": 7553088,
+    "input_tokens": 1607,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 1749,
+    "ttft_us": 2225025,
+    "e2e_us": 7026889,
+    "input_tokens": 1604,
+    "output_tokens": 60
+  },
+  {
+    "request_id": 1760,
+    "ttft_us": 284159,
+    "e2e_us": 7377602,
+    "input_tokens": 1330,
+    "output_tokens": 78
+  },
+  {
+    "request_id": 1781,
+    "ttft_us": 3754229,
+    "e2e_us": 7708121,
+    "input_tokens": 1657,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 1806,
+    "ttft_us": 2987263,
+    "e2e_us": 8310868,
+    "input_tokens": 1627,
+    "output_tokens": 110
+  },
+  {
+    "request_id": 1833,
+    "ttft_us": 5282293,
+    "e2e_us": 7885744,
+    "input_tokens": 1886,
+    "output_tokens": 84
+  },
+  {
+    "request_id": 1853,
+    "ttft_us": 2609304,
+    "e2e_us": 8129627,
+    "input_tokens": 1619,
+    "output_tokens": 101
+  },
+  {
+    "request_id": 1881,
+    "ttft_us": 1057512,
+    "e2e_us": 7955395,
+    "input_tokens": 1497,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 1909,
+    "ttft_us": 679307,
+    "e2e_us": 7056330,
+    "input_tokens": 1450,
+    "output_tokens": 77
+  },
+  {
+    "request_id": 1924,
+    "ttft_us": 1449118,
+    "e2e_us": 8357408,
+    "input_tokens": 1584,
+    "output_tokens": 113
+  },
+  {
+    "request_id": 1953,
+    "ttft_us": 1451828,
+    "e2e_us": 8543865,
+    "input_tokens": 1595,
+    "output_tokens": 112
+  },
+  {
+    "request_id": 1969,
+    "ttft_us": 2225025,
+    "e2e_us": 8041849,
+    "input_tokens": 1593,
+    "output_tokens": 98
+  },
+  {
+    "request_id": 1987,
+    "ttft_us": 671178,
+    "e2e_us": 7332552,
+    "input_tokens": 1482,
+    "output_tokens": 76
+  },
+  {
+    "request_id": 2001,
+    "ttft_us": 5121630,
+    "e2e_us": 7476101,
+    "input_tokens": 1839,
+    "output_tokens": 89
+  },
+  {
+    "request_id": 2022,
+    "ttft_us": 289772,
+    "e2e_us": 7106622,
+    "input_tokens": 1359,
+    "output_tokens": 67
+  },
+  {
+    "request_id": 2041,
+    "ttft_us": 3373225,
+    "e2e_us": 7471643,
+    "input_tokens": 1648,
+    "output_tokens": 70
+  },
+  {
+    "request_id": 2050,
+    "ttft_us": 2992899,
+    "e2e_us": 8031926,
+    "input_tokens": 1626,
+    "output_tokens": 97
+  },
+  {
+    "request_id": 2066,
+    "ttft_us": 4128495,
+    "e2e_us": 7968896,
+    "input_tokens": 1662,
+    "output_tokens": 97
+  },
+  {
+    "request_id": 2092,
+    "ttft_us": 2988923,
+    "e2e_us": 7053711,
+    "input_tokens": 1606,
+    "output_tokens": 75
+  },
+  {
+    "request_id": 2103,
+    "ttft_us": 4135478,
+    "e2e_us": 8176952,
+    "input_tokens": 1672,
+    "output_tokens": 104
+  },
+  {
+    "request_id": 2126,
+    "ttft_us": 2606207,
+    "e2e_us": 7561577,
+    "input_tokens": 1625,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 2142,
+    "ttft_us": 2225025,
+    "e2e_us": 8068390,
+    "input_tokens": 1593,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 2162,
+    "ttft_us": 3746442,
+    "e2e_us": 7454353,
+    "input_tokens": 1654,
+    "output_tokens": 78
+  },
+  {
+    "request_id": 2192,
+    "ttft_us": 4517651,
+    "e2e_us": 7645172,
+    "input_tokens": 1721,
+    "output_tokens": 96
+  },
+  {
+    "request_id": 2221,
+    "ttft_us": 1063297,
+    "e2e_us": 7951587,
+    "input_tokens": 1551,
+    "output_tokens": 98
+  },
+  {
+    "request_id": 2243,
+    "ttft_us": 4519899,
+    "e2e_us": 8424341,
+    "input_tokens": 1745,
+    "output_tokens": 105
+  },
+  {
+    "request_id": 2264,
+    "ttft_us": 1069104,
+    "e2e_us": 7403253,
+    "input_tokens": 1561,
+    "output_tokens": 75
+  },
+  {
+    "request_id": 2271,
+    "ttft_us": 3363875,
+    "e2e_us": 8559132,
+    "input_tokens": 1648,
+    "output_tokens": 120
+  },
+  {
+    "request_id": 2286,
+    "ttft_us": 4517651,
+    "e2e_us": 6980783,
+    "input_tokens": 1726,
+    "output_tokens": 71
+  },
+  {
+    "request_id": 2304,
+    "ttft_us": 3753253,
+    "e2e_us": 8009872,
+    "input_tokens": 1657,
+    "output_tokens": 98
+  },
+  {
+    "request_id": 2325,
+    "ttft_us": 4901267,
+    "e2e_us": 8485024,
+    "input_tokens": 1827,
+    "output_tokens": 107
+  },
+  {
+    "request_id": 2349,
+    "ttft_us": 3375980,
+    "e2e_us": 8198896,
+    "input_tokens": 1660,
+    "output_tokens": 103
+  },
+  {
+    "request_id": 2370,
+    "ttft_us": 3746442,
+    "e2e_us": 7347357,
+    "input_tokens": 1654,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 2395,
+    "ttft_us": 3371833,
+    "e2e_us": 8437235,
+    "input_tokens": 1638,
+    "output_tokens": 127
+  },
+  {
+    "request_id": 2417,
+    "ttft_us": 4898386,
+    "e2e_us": 8298746,
+    "input_tokens": 1800,
+    "output_tokens": 108
+  },
+  {
+    "request_id": 2441,
+    "ttft_us": 3755963,
+    "e2e_us": 7799426,
+    "input_tokens": 1673,
+    "output_tokens": 82
+  },
+  {
+    "request_id": 2457,
+    "ttft_us": 682598,
+    "e2e_us": 7367931,
+    "input_tokens": 1473,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 2480,
+    "ttft_us": 1828469,
+    "e2e_us": 8263531,
+    "input_tokens": 1571,
+    "output_tokens": 110
+  },
+  {
+    "request_id": 2506,
+    "ttft_us": 1451462,
+    "e2e_us": 7605311,
+    "input_tokens": 1534,
+    "output_tokens": 97
+  },
+  {
+    "request_id": 2520,
+    "ttft_us": 1449118,
+    "e2e_us": 8357408,
+    "input_tokens": 1584,
+    "output_tokens": 113
+  },
+  {
+    "request_id": 2542,
+    "ttft_us": 2989973,
+    "e2e_us": 7570025,
+    "input_tokens": 1628,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 2562,
+    "ttft_us": 1840232,
+    "e2e_us": 8430040,
+    "input_tokens": 1591,
+    "output_tokens": 113
+  },
+  {
+    "request_id": 2578,
+    "ttft_us": 4891061,
+    "e2e_us": 7399657,
+    "input_tokens": 1724,
+    "output_tokens": 75
+  },
+  {
+    "request_id": 2594,
+    "ttft_us": 4136111,
+    "e2e_us": 7689889,
+    "input_tokens": 1668,
+    "output_tokens": 98
+  },
+  {
+    "request_id": 2613,
+    "ttft_us": 676791,
+    "e2e_us": 7436783,
+    "input_tokens": 1501,
+    "output_tokens": 79
+  },
+  {
+    "request_id": 2626,
+    "ttft_us": 679501,
+    "e2e_us": 8184081,
+    "input_tokens": 1507,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 2642,
+    "ttft_us": 4140772,
+    "e2e_us": 7950689,
+    "input_tokens": 1685,
+    "output_tokens": 93
+  },
+  {
+    "request_id": 2670,
+    "ttft_us": 4510035,
+    "e2e_us": 8056604,
+    "input_tokens": 1715,
+    "output_tokens": 100
+  },
+  {
+    "request_id": 2696,
+    "ttft_us": 2605328,
+    "e2e_us": 8026669,
+    "input_tokens": 1599,
+    "output_tokens": 112
+  },
+  {
+    "request_id": 2720,
+    "ttft_us": 676791,
+    "e2e_us": 7677067,
+    "input_tokens": 1513,
+    "output_tokens": 88
+  },
+  {
+    "request_id": 2731,
+    "ttft_us": 4519899,
+    "e2e_us": 7603593,
+    "input_tokens": 1738,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 2744,
+    "ttft_us": 5521201,
+    "e2e_us": 7451651,
+    "input_tokens": 3068,
+    "output_tokens": 73
+  },
+  {
+    "request_id": 2755,
+    "ttft_us": 3363875,
+    "e2e_us": 7872599,
+    "input_tokens": 1649,
+    "output_tokens": 94
+  },
+  {
+    "request_id": 2783,
+    "ttft_us": 4517651,
+    "e2e_us": 7592174,
+    "input_tokens": 1689,
+    "output_tokens": 94
+  },
+  {
+    "request_id": 2790,
+    "ttft_us": 1063297,
+    "e2e_us": 7978169,
+    "input_tokens": 1539,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 2810,
+    "ttft_us": 679501,
+    "e2e_us": 8131055,
+    "input_tokens": 1527,
+    "output_tokens": 97
+  },
+  {
+    "request_id": 2824,
+    "ttft_us": 682598,
+    "e2e_us": 8167831,
+    "input_tokens": 1467,
+    "output_tokens": 104
+  },
+  {
+    "request_id": 2847,
+    "ttft_us": 671178,
+    "e2e_us": 8159483,
+    "input_tokens": 1455,
+    "output_tokens": 107
+  },
+  {
+    "request_id": 2862,
+    "ttft_us": 1836598,
+    "e2e_us": 8089479,
+    "input_tokens": 1590,
+    "output_tokens": 115
+  },
+  {
+    "request_id": 2887,
+    "ttft_us": 4898386,
+    "e2e_us": 7902108,
+    "input_tokens": 1811,
+    "output_tokens": 93
+  },
+  {
+    "request_id": 2907,
+    "ttft_us": 4138188,
+    "e2e_us": 7541981,
+    "input_tokens": 1722,
+    "output_tokens": 72
+  },
+  {
+    "request_id": 2932,
+    "ttft_us": 4522483,
+    "e2e_us": 8802084,
+    "input_tokens": 1727,
+    "output_tokens": 125
+  },
+  {
+    "request_id": 2960,
+    "ttft_us": 5271744,
+    "e2e_us": 7488267,
+    "input_tokens": 1782,
+    "output_tokens": 78
+  },
+  {
+    "request_id": 2984,
+    "ttft_us": 2221220,
+    "e2e_us": 7701566,
+    "input_tokens": 1596,
+    "output_tokens": 100
+  },
+  {
+    "request_id": 3003,
+    "ttft_us": 3753253,
+    "e2e_us": 8695308,
+    "input_tokens": 1665,
+    "output_tokens": 124
+  },
+  {
+    "request_id": 3017,
+    "ttft_us": 2606207,
+    "e2e_us": 7400957,
+    "input_tokens": 1608,
+    "output_tokens": 68
+  },
+  {
+    "request_id": 3025,
+    "ttft_us": 682598,
+    "e2e_us": 7848621,
+    "input_tokens": 1496,
+    "output_tokens": 92
+  },
+  {
+    "request_id": 3039,
+    "ttft_us": 671178,
+    "e2e_us": 8371003,
+    "input_tokens": 1492,
+    "output_tokens": 115
+  },
+  {
+    "request_id": 3067,
+    "ttft_us": 679307,
+    "e2e_us": 7508935,
+    "input_tokens": 1480,
+    "output_tokens": 94
+  },
+  {
+    "request_id": 3094,
+    "ttft_us": 1834425,
+    "e2e_us": 7328533,
+    "input_tokens": 1591,
+    "output_tokens": 74
+  },
+  {
+    "request_id": 3104,
+    "ttft_us": 1837135,
+    "e2e_us": 7330201,
+    "input_tokens": 1603,
+    "output_tokens": 66
+  },
+  {
+    "request_id": 3116,
+    "ttft_us": 4522483,
+    "e2e_us": 8117784,
+    "input_tokens": 1685,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 3140,
+    "ttft_us": 3363875,
+    "e2e_us": 7819379,
+    "input_tokens": 1649,
+    "output_tokens": 92
+  },
+  {
+    "request_id": 3157,
+    "ttft_us": 2221220,
+    "e2e_us": 7913073,
+    "input_tokens": 1594,
+    "output_tokens": 108
+  },
+  {
+    "request_id": 3181,
+    "ttft_us": 1063297,
+    "e2e_us": 7445300,
+    "input_tokens": 1544,
+    "output_tokens": 79
+  },
+  {
+    "request_id": 3190,
+    "ttft_us": 1066007,
+    "e2e_us": 8588429,
+    "input_tokens": 1586,
+    "output_tokens": 114
+  },
+  {
+    "request_id": 3206,
+    "ttft_us": 3758547,
+    "e2e_us": 8180664,
+    "input_tokens": 1672,
+    "output_tokens": 102
+  },
+  {
+    "request_id": 3232,
+    "ttft_us": 2980794,
+    "e2e_us": 8208835,
+    "input_tokens": 1633,
+    "output_tokens": 107
+  },
+  {
+    "request_id": 3252,
+    "ttft_us": 4898677,
+    "e2e_us": 7679869,
+    "input_tokens": 1726,
+    "output_tokens": 97
+  },
+  {
+    "request_id": 3265,
+    "ttft_us": 2987263,
+    "e2e_us": 7647547,
+    "input_tokens": 1626,
+    "output_tokens": 85
+  },
+  {
+    "request_id": 3293,
+    "ttft_us": 3373225,
+    "e2e_us": 7605083,
+    "input_tokens": 1656,
+    "output_tokens": 75
+  },
+  {
+    "request_id": 3308,
+    "ttft_us": 1840232,
+    "e2e_us": 7286444,
+    "input_tokens": 1585,
+    "output_tokens": 70
+  },
+  {
+    "request_id": 3320,
+    "ttft_us": 2597199,
+    "e2e_us": 8041824,
+    "input_tokens": 1604,
+    "output_tokens": 101
+  },
+  {
+    "request_id": 3335,
+    "ttft_us": 5121630,
+    "e2e_us": 6141036,
+    "input_tokens": 2046,
+    "output_tokens": 39
+  },
+  {
+    "request_id": 3354,
+    "ttft_us": 1834425,
+    "e2e_us": 8101032,
+    "input_tokens": 1599,
+    "output_tokens": 103
+  },
+  {
+    "request_id": 3372,
+    "ttft_us": 5662976,
+    "e2e_us": 7335474,
+    "input_tokens": 2392,
+    "output_tokens": 63
+  },
+  {
+    "request_id": 3384,
+    "ttft_us": 4140772,
+    "e2e_us": 7657895,
+    "input_tokens": 1680,
+    "output_tokens": 82
+  },
+  {
+    "request_id": 3390,
+    "ttft_us": 1057512,
+    "e2e_us": 7341138,
+    "input_tokens": 1509,
+    "output_tokens": 76
+  },
+  {
+    "request_id": 3401,
+    "ttft_us": 2988923,
+    "e2e_us": 7929357,
+    "input_tokens": 1601,
+    "output_tokens": 108
+  },
+  {
+    "request_id": 3415,
+    "ttft_us": 5456110,
+    "e2e_us": 7440051,
+    "input_tokens": 2350,
+    "output_tokens": 75
+  },
+  {
+    "request_id": 3423,
+    "ttft_us": 1837135,
+    "e2e_us": 8314655,
+    "input_tokens": 1602,
+    "output_tokens": 103
+  },
+  {
+    "request_id": 3450,
+    "ttft_us": 2609304,
+    "e2e_us": 8261748,
+    "input_tokens": 1615,
+    "output_tokens": 106
+  },
+  {
+    "request_id": 3475,
+    "ttft_us": 2213091,
+    "e2e_us": 8192453,
+    "input_tokens": 1594,
+    "output_tokens": 107
+  },
+  {
+    "request_id": 3496,
+    "ttft_us": 3371833,
+    "e2e_us": 7726353,
+    "input_tokens": 1626,
+    "output_tokens": 100
+  },
+  {
+    "request_id": 3521,
+    "ttft_us": 4517189,
+    "e2e_us": 8369629,
+    "input_tokens": 1738,
+    "output_tokens": 111
+  },
+  {
+    "request_id": 3542,
+    "ttft_us": 3373225,
+    "e2e_us": 8426359,
+    "input_tokens": 1655,
+    "output_tokens": 106
+  },
+  {
+    "request_id": 3559,
+    "ttft_us": 5284535,
+    "e2e_us": 7549895,
+    "input_tokens": 1969,
+    "output_tokens": 77
+  },
+  {
+    "request_id": 3577,
+    "ttft_us": 1828469,
+    "e2e_us": 8316307,
+    "input_tokens": 1583,
+    "output_tokens": 112
+  },
+  {
+    "request_id": 3601,
+    "ttft_us": 3371833,
+    "e2e_us": 8069161,
+    "input_tokens": 1614,
+    "output_tokens": 113
+  },
+  {
+    "request_id": 3631,
+    "ttft_us": 676791,
+    "e2e_us": 7969819,
+    "input_tokens": 1513,
+    "output_tokens": 99
+  },
+  {
+    "request_id": 3652,
+    "ttft_us": 1451828,
+    "e2e_us": 8438439,
+    "input_tokens": 1599,
+    "output_tokens": 108
+  },
+  {
+    "request_id": 3675,
+    "ttft_us": 1454925,
+    "e2e_us": 8448272,
+    "input_tokens": 1583,
+    "output_tokens": 114
+  },
+  {
+    "request_id": 3698,
+    "ttft_us": 2597199,
+    "e2e_us": 8200651,
+    "input_tokens": 1630,
+    "output_tokens": 107
+  },
+  {
+    "request_id": 3714,
+    "ttft_us": 1451462,
+    "e2e_us": 6832581,
+    "input_tokens": 1529,
+    "output_tokens": 68
+  },
+  {
+    "request_id": 3723,
+    "ttft_us": 2603497,
+    "e2e_us": 7452521,
+    "input_tokens": 1608,
+    "output_tokens": 78
+  },
+  {
+    "request_id": 3740,
+    "ttft_us": 5680819,
+    "e2e_us": 7981817,
+    "input_tokens": 2416,
+    "output_tokens": 87
+  },
+  {
+    "request_id": 3748,
+    "ttft_us": 4522483,
+    "e2e_us": 8355067,
+    "input_tokens": 1686,
+    "output_tokens": 108
+  },
+  {
+    "request_id": 3773,
+    "ttft_us": 4128495,
+    "e2e_us": 7942355,
+    "input_tokens": 1664,
+    "output_tokens": 96
+  },
+  {
+    "request_id": 3786,
+    "ttft_us": 292288,
+    "e2e_us": 7181335,
+    "input_tokens": 1372,
+    "output_tokens": 82
+  },
+  {
+    "request_id": 3800,
+    "ttft_us": 2987263,
+    "e2e_us": 7407596,
+    "input_tokens": 1642,
+    "output_tokens": 76
+  },
+  {
+    "request_id": 3809,
+    "ttft_us": 5282293,
+    "e2e_us": 7646833,
+    "input_tokens": 1950,
+    "output_tokens": 75
+  }
+]

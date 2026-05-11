@@ -1,0 +1,554 @@
+time="2026-04-13T07:39:25+03:00" level=warning msg="Finding default values of vLLM version for model=mistralai/mistral-small-24b-instruct-2501"
+time="2026-04-13T07:39:25+03:00" level=warning msg="Using default vLLM version=vllm/vllm-openai:v0.8.4"
+time="2026-04-13T07:39:25+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_tox-dev__pipdeptree.c31b6418.86.2s12i3oe_round_3_1108"
+time="2026-04-13T07:39:25+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_tox-dev__pipdeptree.c31b6418.86.2s12i3oe_round_3_1108"
+time="2026-04-13T07:39:25+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_tox-dev__pipdeptree.c31b6418.86.2s12i3oe_round_3_1108"
+time="2026-04-13T07:39:25+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_tox-dev__pipdeptree.c31b6418.86.2s12i3oe_round_3_1108"
+time="2026-04-13T07:39:25+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_tox-dev__pipdeptree.c31b6418.86.2s12i3oe_round_3_1108"
+time="2026-04-13T07:39:25+03:00" level=warning msg="KV cache full: cannot allocate 28 new blocks for req session_buriy__python-readability.40256f40.func_pm_op_swap__6qaf1vop.yxq655kj_round_9_1127"
+time="2026-04-13T07:39:25+03:00" level=warning msg="KV cache full: cannot allocate 28 new blocks for req session_buriy__python-readability.40256f40.func_pm_op_swap__6qaf1vop.yxq655kj_round_9_1127"
+time="2026-04-13T07:39:25+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_getmoto__moto.694ce1f4.pr_7905.98om7l73_round_8_1121"
+time="2026-04-13T07:39:25+03:00" level=warning msg="[tick 86469088] preemption: evicting session_getmoto__moto.694ce1f4.pr_7905.98om7l73_round_8_1121 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_cantools__cantools.0c6a7871.combine_file__1w4tyzon.rbvfrj8m_round_14_1149"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 88584183] preemption: evicting session_cantools__cantools.0c6a7871.combine_file__1w4tyzon.rbvfrj8m_round_14_1149 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_11654.qb6g2s7e_round_9_1161"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_Project-MONAI__MONAI.a09c1f08.pr_5807.gir8u3bn_round_10_1168"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 92075750] preemption: evicting session_Project-MONAI__MONAI.a09c1f08.pr_5807.gir8u3bn_round_10_1168 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_pydantic__pydantic.acb0f10f.func_pm_remove_assign__i1dypufs.g8yln6vw_round_9_1187"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 98069221] preemption: evicting session_pydantic__pydantic.acb0f10f.func_pm_remove_assign__i1dypufs.g8yln6vw_round_9_1187 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_oauthlib__oauthlib.1fd52536.lm_rewrite__1zoa1aes.u3fasg1o_round_8_1200"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_oauthlib__oauthlib.1fd52536.lm_rewrite__1zoa1aes.u3fasg1o_round_8_1200"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_oauthlib__oauthlib.1fd52536.lm_rewrite__1zoa1aes.u3fasg1o_round_8_1200"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_oauthlib__oauthlib.1fd52536.lm_rewrite__1zoa1aes.u3fasg1o_round_8_1200"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_scrapy__scrapy.35212ec5.pr_5406.ve3tpuuk_round_9_1230"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 108553288] preemption: evicting session_scrapy__scrapy.35212ec5.pr_5406.ve3tpuuk_round_9_1230 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_scrapy__scrapy.35212ec5.pr_5406.ve3tpuuk_round_9_1230"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 109323899] preemption: evicting session_scrapy__scrapy.35212ec5.pr_5406.ve3tpuuk_round_9_1230 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_kurtmckee__feedparser.cad965a3.lm_rewrite__ah1phjn6.awcurfrb_round_10_1224"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 111306430] preemption: evicting session_kurtmckee__feedparser.cad965a3.lm_rewrite__ah1phjn6.awcurfrb_round_10_1224 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_weaveworks__grafanalib.5c3b17ed.72.9fd7ja1z_round_6_1300"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 135316451] preemption: evicting session_weaveworks__grafanalib.5c3b17ed.72.9fd7ja1z_round_6_1300 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_kurtmckee__feedparser.cad965a3.lm_rewrite__o7g3k0fq.w1ud10dn_round_7_1303"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 137255304] preemption: evicting session_kurtmckee__feedparser.cad965a3.lm_rewrite__o7g3k0fq.w1ud10dn_round_7_1303 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_scrapy__scrapy.35212ec5.lm_rewrite__0x23rybz.x90to3jr_round_7_1324"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 145953379] preemption: evicting session_scrapy__scrapy.35212ec5.lm_rewrite__0x23rybz.x90to3jr_round_7_1324 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_python-openxml__python-docx.0cf6d71f.func_pm_ctrl_shuffle__b1e5b0xm.2qfbqllq_round_9_1340"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 155594875] preemption: evicting session_python-openxml__python-docx.0cf6d71f.func_pm_ctrl_shuffle__b1e5b0xm.2qfbqllq_round_9_1340 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_oauthlib__oauthlib.1fd52536.lm_rewrite__qs5qapuw.9bmyw9fg_round_14_1362"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 161086174] preemption: evicting session_oauthlib__oauthlib.1fd52536.lm_rewrite__qs5qapuw.9bmyw9fg_round_14_1362 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 28 new blocks for req session_oauthlib__oauthlib.1fd52536.lm_rewrite__qs5qapuw.9bmyw9fg_round_14_1362"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 162662232] preemption: evicting session_oauthlib__oauthlib.1fd52536.lm_rewrite__qs5qapuw.9bmyw9fg_round_14_1362 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_marshmallow-code__apispec.8b421526.61.i01ciz1e_round_9_1380"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 165754292] preemption: evicting session_marshmallow-code__apispec.8b421526.61.i01ciz1e_round_9_1380 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_jd__tenacity.0d40e76f.37.wcd3qrni_round_9_1384"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 167711205] preemption: evicting session_jd__tenacity.0d40e76f.37.wcd3qrni_round_9_1384 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_jd__tenacity.0d40e76f.37.wcd3qrni_round_9_1384"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 168559049] preemption: evicting session_jd__tenacity.0d40e76f.37.wcd3qrni_round_9_1384 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 17 new blocks for req session_conan-io__conan.86f29e13.pr_16451.ak36apks_round_9_1405"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 178568794] preemption: evicting session_conan-io__conan.86f29e13.pr_16451.ak36apks_round_9_1405 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_spulec__freezegun.5f171db0.77.zrfil5kb_round_8_1425"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 183203901] preemption: evicting session_spulec__freezegun.5f171db0.77.zrfil5kb_round_8_1425 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 20 new blocks for req session_conan-io__conan.86f29e13.pr_17520.e2u62xkm_round_7_1439"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_17520.e2u62xkm_round_7_1439"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_17520.e2u62xkm_round_7_1439"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_17520.e2u62xkm_round_7_1439"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_17520.e2u62xkm_round_7_1439"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_17520.e2u62xkm_round_7_1439"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_17520.e2u62xkm_round_7_1439"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_conan-io__conan.86f29e13.pr_17520.e2u62xkm_round_7_1439"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 191886122] preemption: evicting session_conan-io__conan.86f29e13.pr_17520.e2u62xkm_round_7_1439 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_spulec__freezegun.5f171db0.lm_rewrite__b0ixukh7.o5t3kofx_round_10_1433"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 192551804] preemption: evicting session_spulec__freezegun.5f171db0.lm_rewrite__b0ixukh7.o5t3kofx_round_10_1433 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_spulec__freezegun.5f171db0.lm_rewrite__b0ixukh7.o5t3kofx_round_10_1433"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_spulec__freezegun.5f171db0.lm_rewrite__b0ixukh7.o5t3kofx_round_10_1433"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_spulec__freezegun.5f171db0.lm_rewrite__b0ixukh7.o5t3kofx_round_10_1433"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 27 new blocks for req session_spulec__freezegun.5f171db0.lm_rewrite__b0ixukh7.o5t3kofx_round_10_1433"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 194490371] preemption: evicting session_spulec__freezegun.5f171db0.lm_rewrite__b0ixukh7.o5t3kofx_round_10_1433 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pandas-dev__pandas.95280573.pr_50331.tlhhsf4k_round_11_1455"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 195793643] preemption: evicting session_pandas-dev__pandas.95280573.pr_50331.tlhhsf4k_round_11_1455 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pandas-dev__pandas.95280573.pr_50331.tlhhsf4k_round_11_1455"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pandas-dev__pandas.95280573.pr_50331.tlhhsf4k_round_11_1455"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pandas-dev__pandas.95280573.pr_50331.tlhhsf4k_round_11_1455"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pandas-dev__pandas.95280573.pr_50331.tlhhsf4k_round_11_1455"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pandas-dev__pandas.95280573.pr_50331.tlhhsf4k_round_11_1455"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pandas-dev__pandas.95280573.pr_50331.tlhhsf4k_round_11_1455"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pandas-dev__pandas.95280573.pr_50331.tlhhsf4k_round_11_1455"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_17500.h2mu7zio_round_12_1445"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 197692470] preemption: evicting session_conan-io__conan.86f29e13.pr_17500.h2mu7zio_round_12_1445 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pyutils__line_profiler.a646bf0f.90.d5x7mem0_round_7_1458"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 198591013] preemption: evicting session_pyutils__line_profiler.a646bf0f.90.d5x7mem0_round_7_1458 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_arrow-py__arrow.1d70d009.lm_rewrite__0oep5tw2.p476hr6b_round_8_1465"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 200449194] preemption: evicting session_arrow-py__arrow.1d70d009.lm_rewrite__0oep5tw2.p476hr6b_round_8_1465 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_HIPS__autograd.ac044f0d.lm_rewrite__zmt92fhi.uatmi41d_round_9_1474"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 204511133] preemption: evicting session_HIPS__autograd.ac044f0d.lm_rewrite__zmt92fhi.uatmi41d_round_9_1474 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_dask__dask.5f61e423.pr_7894.9tvwjuat_round_11_1496"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 216482799] preemption: evicting session_dask__dask.5f61e423.pr_7894.9tvwjuat_round_11_1496 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_tkrajina__gpxpy.09fc46b3.lm_rewrite__0m63cgpa.qslpahpb_round_13_1504"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 221154277] preemption: evicting session_tkrajina__gpxpy.09fc46b3.lm_rewrite__0m63cgpa.qslpahpb_round_13_1504 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 231505926] preemption: evicting session_dask__dask.5f61e423.pr_7894.9tvwjuat_round_12_1532 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_cookiecutter__cookiecutter.b4451231.lm_rewrite__l5ekmd58.xm1pu0y3_round_8_1553"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 251661139] preemption: evicting session_cookiecutter__cookiecutter.b4451231.lm_rewrite__l5ekmd58.xm1pu0y3_round_8_1553 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_cookiecutter__cookiecutter.b4451231.lm_rewrite__l5ekmd58.xm1pu0y3_round_8_1553"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 19 new blocks for req session_marshmallow-code__apispec.8b421526.func_pm_ctrl_shuffle__smncs4i8.myobw605_round_8_1594"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__apispec.8b421526.func_pm_ctrl_shuffle__smncs4i8.myobw605_round_8_1594"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__apispec.8b421526.func_pm_ctrl_shuffle__smncs4i8.myobw605_round_8_1594"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__apispec.8b421526.func_pm_ctrl_shuffle__smncs4i8.myobw605_round_8_1594"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__apispec.8b421526.func_pm_ctrl_shuffle__smncs4i8.myobw605_round_8_1594"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__apispec.8b421526.func_pm_ctrl_shuffle__smncs4i8.myobw605_round_8_1594"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__apispec.8b421526.func_pm_ctrl_shuffle__smncs4i8.myobw605_round_8_1594"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__apispec.8b421526.func_pm_ctrl_shuffle__smncs4i8.myobw605_round_8_1594"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__apispec.8b421526.func_pm_ctrl_shuffle__smncs4i8.myobw605_round_8_1594"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__apispec.8b421526.func_pm_ctrl_shuffle__smncs4i8.myobw605_round_8_1594"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 257160363] preemption: evicting session_sqlfluff__sqlfluff.50a1c4b6.func_pm_op_swap__15tl8pia.iabiwlnj_round_12_1593 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_weaveworks__grafanalib.5c3b17ed.72.9fd7ja1z_round_10_1608"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 264328830] preemption: evicting session_weaveworks__grafanalib.5c3b17ed.72.9fd7ja1z_round_10_1608 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_weaveworks__grafanalib.5c3b17ed.72.9fd7ja1z_round_10_1608"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 265117761] preemption: evicting session_weaveworks__grafanalib.5c3b17ed.72.9fd7ja1z_round_10_1608 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pydantic__pydantic.acb0f10f.func_pm_remove_assign__i1dypufs.g8yln6vw_round_13_1607"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 267692099] preemption: evicting session_pydantic__pydantic.acb0f10f.func_pm_remove_assign__i1dypufs.g8yln6vw_round_13_1607 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_pydantic__pydantic.acb0f10f.func_pm_remove_assign__i1dypufs.g8yln6vw_round_13_1607"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 268844235] preemption: evicting session_pydantic__pydantic.acb0f10f.func_pm_remove_assign__i1dypufs.g8yln6vw_round_13_1607 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_cknd__stackprinter.219fcc52.lm_rewrite__4yfvlq78.rdgzt1d6_round_8_1611"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 271564826] preemption: evicting session_cknd__stackprinter.219fcc52.lm_rewrite__4yfvlq78.rdgzt1d6_round_8_1611 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_Project-MONAI__MONAI.a09c1f08.func_pm_class_rm_base__jhh5qtvj.iu2kkc8f_round_11_1621"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 274398697] preemption: evicting session_Project-MONAI__MONAI.a09c1f08.func_pm_class_rm_base__jhh5qtvj.iu2kkc8f_round_11_1621 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 27 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_5_1641"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_5_1641"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_5_1641"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_5_1641"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_5_1641"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_5_1641"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_5_1641"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_5_1641"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 10 new blocks for req session_Project-MONAI__MONAI.a09c1f08.func_pm_remove_assign__4iqnp8k6.4id5qc8s_round_7_1639"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 289138220] preemption: evicting session_Project-MONAI__MONAI.a09c1f08.func_pm_remove_assign__4iqnp8k6.4id5qc8s_round_7_1639 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_pandas-dev__pandas.95280573.pr_50331.tlhhsf4k_round_13_1645"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 290532464] preemption: evicting session_pandas-dev__pandas.95280573.pr_50331.tlhhsf4k_round_13_1645 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 22 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_7_1662"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 291959986] preemption: evicting session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_7_1662 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_Project-MONAI__MONAI.a09c1f08.pr_3619.7e6hosa8_round_11_1667"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 293495490] preemption: evicting session_Project-MONAI__MONAI.a09c1f08.pr_3619.7e6hosa8_round_11_1667 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 6 new blocks for req session_lincolnloop__python-qrcode.456b01d4.133.1vzh8oac_round_10_1677"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_lincolnloop__python-qrcode.456b01d4.133.1vzh8oac_round_10_1677"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 297641267] preemption: evicting session_lincolnloop__python-qrcode.456b01d4.133.1vzh8oac_round_10_1677 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_8_1686"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 302350673] preemption: evicting session_andialbrecht__sqlparse.e57923b3.lm_rewrite__scnjth44.q1xsbql3_round_8_1686 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_facebookresearch__hydra.0f03eb60.lm_rewrite__gpyz1el7.okv3h4yn_round_8_1676"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 305963481] preemption: evicting session_facebookresearch__hydra.0f03eb60.lm_rewrite__gpyz1el7.okv3h4yn_round_8_1676 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_alecthomas__voluptuous.a7a55f83.func_pm_op_swap__ik9k7pih.zlr2c8bz_round_9_1684"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 308983902] preemption: evicting session_alecthomas__voluptuous.a7a55f83.func_pm_op_swap__ik9k7pih.zlr2c8bz_round_9_1684 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_alecthomas__voluptuous.a7a55f83.func_pm_op_swap__ik9k7pih.zlr2c8bz_round_9_1684"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_alecthomas__voluptuous.a7a55f83.func_pm_op_swap__ik9k7pih.zlr2c8bz_round_9_1684"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_alecthomas__voluptuous.a7a55f83.func_pm_op_swap__ik9k7pih.zlr2c8bz_round_9_1684"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_alecthomas__voluptuous.a7a55f83.func_pm_op_swap__ik9k7pih.zlr2c8bz_round_9_1684"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_alecthomas__voluptuous.a7a55f83.func_pm_op_swap__ik9k7pih.zlr2c8bz_round_9_1684"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_alecthomas__voluptuous.a7a55f83.func_pm_op_swap__ik9k7pih.zlr2c8bz_round_9_1684"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 19 new blocks for req session_cookiecutter__cookiecutter.b4451231.pr_2029.rtajh04w_round_11_1730"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_cookiecutter__cookiecutter.b4451231.pr_2029.rtajh04w_round_11_1730"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 313819438] preemption: evicting session_iterative__dvc.1d6ea681.pr_7899.68tpylhg_round_9_1726 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_9_1700"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 317280868] preemption: evicting session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_9_1700 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_9_1700"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 318095824] preemption: evicting session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_9_1700 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_oauthlib__oauthlib.1fd52536.lm_rewrite__qs5qapuw.9bmyw9fg_round_16_1751"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 324249616] preemption: evicting session_oauthlib__oauthlib.1fd52536.lm_rewrite__qs5qapuw.9bmyw9fg_round_16_1751 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_agronholm__typeguard.b6a7e438.func_pm_op_break_chains__ceb4s3n3.b1bx5fmv_round_15_1752"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 326226425] preemption: evicting session_agronholm__typeguard.b6a7e438.func_pm_op_break_chains__ceb4s3n3.b1bx5fmv_round_15_1752 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 19 new blocks for req session_cookiecutter__cookiecutter.b4451231.pr_2029.rtajh04w_round_12_1804"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 25 new blocks for req session_gruns__furl.da386f68.lm_rewrite__9nb66oj3.pu1l9fkr_round_12_1776"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_7_1828"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_7_1828"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_7_1828"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_7_1828"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_7_1828"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 343839253] preemption: evicting session_paramiko__paramiko.23f92003.func_pm_ctrl_shuffle__4vo13hd4.6x6y4jjz_round_7_1828 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_scrapy__scrapy.35212ec5.lm_rewrite__0x23rybz.x90to3jr_round_9_1826"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 346664202] preemption: evicting session_scrapy__scrapy.35212ec5.lm_rewrite__0x23rybz.x90to3jr_round_9_1826 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_scrapy__scrapy.35212ec5.lm_rewrite__0x23rybz.x90to3jr_round_9_1826"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 347207375] preemption: evicting session_scrapy__scrapy.35212ec5.lm_rewrite__0x23rybz.x90to3jr_round_9_1826 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_mahmoud__boltons.3bfcfdd0.lm_rewrite__o3q1corl.31nskqa3_round_16_1840"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 349933530] preemption: evicting session_mahmoud__boltons.3bfcfdd0.lm_rewrite__o3q1corl.31nskqa3_round_16_1840 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 28 new blocks for req session_agronholm__typeguard.b6a7e438.func_pm_op_break_chains__ceb4s3n3.b1bx5fmv_round_16_1830"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 351044171] preemption: evicting session_agronholm__typeguard.b6a7e438.func_pm_op_break_chains__ceb4s3n3.b1bx5fmv_round_16_1830 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 19 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_PyCQA__flake8.cf1542ce.lm_rewrite__3y6aw3tc.caqi0fgi_round_10_1872"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 21 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_9_1894"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_9_1894"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_9_1894"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_conan-io__conan.86f29e13.pr_16451.ak36apks_round_11_1918"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 390739209] preemption: evicting session_conan-io__conan.86f29e13.pr_16451.ak36apks_round_11_1918 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_16451.ak36apks_round_11_1918"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 392012883] preemption: evicting session_conan-io__conan.86f29e13.pr_16451.ak36apks_round_11_1918 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_john-kurkowski__tldextract.3d1bf184.combine_file__effh85g1.f8g4jbb5_round_10_1925"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 393958313] preemption: evicting session_john-kurkowski__tldextract.3d1bf184.combine_file__effh85g1.f8g4jbb5_round_10_1925 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_10_1936"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 395878741] preemption: evicting session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_10_1936 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_10_1936"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_10_1936"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_10_1936"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_10_1936"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_10_1936"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_10_1936"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_10_1936"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_iterative__dvc.1d6ea681.func_pm_ctrl_invert_if__ntv844lr.qevj6bvk_round_10_1936"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 398246386] preemption: evicting session_conan-io__conan.86f29e13.pr_16451.ak36apks_round_12_1943 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_getmoto__moto.694ce1f4.pr_7905.98om7l73_round_12_1912"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 407241000] preemption: evicting session_getmoto__moto.694ce1f4.pr_7905.98om7l73_round_12_1912 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_gawel__pyquery.811cd048.func_pm_ctrl_invert_if__fn2x8mwa.u1flmuyv_round_8_1931"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 411099498] preemption: evicting session_gawel__pyquery.811cd048.func_pm_ctrl_invert_if__fn2x8mwa.u1flmuyv_round_8_1931 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_dask__dask.5f61e423.pr_10521.zgrzhlkb_round_9_1934"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 413448185] preemption: evicting session_dask__dask.5f61e423.pr_10521.zgrzhlkb_round_9_1934 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_mahmoud__boltons.3bfcfdd0.lm_rewrite__o3q1corl.31nskqa3_round_17_1964"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 414495027] preemption: evicting session_mahmoud__boltons.3bfcfdd0.lm_rewrite__o3q1corl.31nskqa3_round_17_1964 to make room"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_mahmoud__boltons.3bfcfdd0.lm_rewrite__o3q1corl.31nskqa3_round_17_1964"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_mahmoud__boltons.3bfcfdd0.lm_rewrite__o3q1corl.31nskqa3_round_17_1964"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_mahmoud__boltons.3bfcfdd0.lm_rewrite__o3q1corl.31nskqa3_round_17_1964"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_mahmoud__boltons.3bfcfdd0.lm_rewrite__o3q1corl.31nskqa3_round_17_1964"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_mahmoud__boltons.3bfcfdd0.lm_rewrite__o3q1corl.31nskqa3_round_17_1964"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_mahmoud__boltons.3bfcfdd0.lm_rewrite__o3q1corl.31nskqa3_round_17_1964"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_mahmoud__boltons.3bfcfdd0.lm_rewrite__o3q1corl.31nskqa3_round_17_1964"
+time="2026-04-13T07:39:26+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_chardet__chardet.9630f238.16.mt0f773l_round_11_1944"
+time="2026-04-13T07:39:26+03:00" level=warning msg="[tick 416931430] preemption: evicting session_chardet__chardet.9630f238.16.mt0f773l_round_11_1944 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_conan-io__conan.86f29e13.pr_14776.mr84oqlq_round_14_1989"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 421149170] preemption: evicting session_conan-io__conan.86f29e13.pr_14776.mr84oqlq_round_14_1989 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_seperman__deepdiff.ed252022.lm_rewrite__8antbd9j.63okxalb_round_10_1967"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 426889693] preemption: evicting session_seperman__deepdiff.ed252022.lm_rewrite__8antbd9j.63okxalb_round_10_1967 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_arrow-py__arrow.1d70d009.lm_rewrite__0oep5tw2.p476hr6b_round_14_2017"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 428141977] preemption: evicting session_arrow-py__arrow.1d70d009.lm_rewrite__0oep5tw2.p476hr6b_round_14_2017 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_msiemens__tinydb.10644a0e.func_pm_ctrl_shuffle__twt15ie9.jg2novk6_round_9_1978"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 429044771] preemption: evicting session_msiemens__tinydb.10644a0e.func_pm_ctrl_shuffle__twt15ie9.jg2novk6_round_9_1978 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 21 new blocks for req session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_13_2023"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_13_2023"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_13_2023"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_13_2023"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_13_2023"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_13_2023"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_13_2023"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_lincolnloop__python-qrcode.456b01d4.135.ldpab6ql_round_8_2002"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 439372221] preemption: evicting session_lincolnloop__python-qrcode.456b01d4.135.ldpab6ql_round_8_2002 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_jawah__charset_normalizer.1fdd6463.104.wxxb1qme_round_12_2009"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_arrow-py__arrow.1d70d009.lm_rewrite__0oep5tw2.p476hr6b_round_15_2042"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 444829243] preemption: evicting session_arrow-py__arrow.1d70d009.lm_rewrite__0oep5tw2.p476hr6b_round_15_2042 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_sloria__environs.73c372df.lm_rewrite__j1p3c330.33mke0ao_round_10_2021"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 445147194] preemption: evicting session_sloria__environs.73c372df.lm_rewrite__j1p3c330.33mke0ao_round_10_2021 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_12752.jhdjfm3r_round_11_2025"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 447072413] preemption: evicting session_conan-io__conan.86f29e13.pr_12752.jhdjfm3r_round_11_2025 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_conan-io__conan.86f29e13.pr_12752.jhdjfm3r_round_11_2025"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 449023483] preemption: evicting session_conan-io__conan.86f29e13.pr_12752.jhdjfm3r_round_11_2025 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 14 new blocks for req session_conan-io__conan.86f29e13.pr_12752.jhdjfm3r_round_11_2025"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 450584967] preemption: evicting session_conan-io__conan.86f29e13.pr_12752.jhdjfm3r_round_11_2025 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_kurtmckee__feedparser.cad965a3.lm_rewrite__o7g3k0fq.w1ud10dn_round_12_2088"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 465592213] preemption: evicting session_kurtmckee__feedparser.cad965a3.lm_rewrite__o7g3k0fq.w1ud10dn_round_12_2088 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_un33k__python-slugify.872b3750.lm_rewrite__kidne8vn.8zyhbzjl_round_14_2091"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 469806932] preemption: evicting session_un33k__python-slugify.872b3750.lm_rewrite__kidne8vn.8zyhbzjl_round_14_2091 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 4 new blocks for req session_pallets__markupsafe.620c06c9.combine_file__6fk2d773.k9rypv47_round_13_2111"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 470456443] preemption: evicting session_pallets__markupsafe.620c06c9.combine_file__6fk2d773.k9rypv47_round_13_2111 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 24 new blocks for req session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_15_2095"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 472885820] preemption: evicting session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__d2oxpo8q.6e1k31l9_round_15_2095 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pallets__click.fde47b4b.func_pm_ctrl_shuffle__kz1eskkl.whgzjogq_round_20_2113"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 474467380] preemption: evicting session_pallets__click.fde47b4b.func_pm_ctrl_shuffle__kz1eskkl.whgzjogq_round_20_2113 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 30 new blocks for req session_theskumar__python-dotenv.2b8635b7.combine_module__uvqxiubw.4up0txkr_round_11_2228"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_theskumar__python-dotenv.2b8635b7.combine_module__uvqxiubw.4up0txkr_round_11_2228"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_theskumar__python-dotenv.2b8635b7.combine_module__uvqxiubw.4up0txkr_round_11_2228"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_theskumar__python-dotenv.2b8635b7.combine_module__uvqxiubw.4up0txkr_round_11_2228"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_theskumar__python-dotenv.2b8635b7.combine_module__uvqxiubw.4up0txkr_round_11_2228"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_theskumar__python-dotenv.2b8635b7.combine_module__uvqxiubw.4up0txkr_round_11_2228"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_theskumar__python-dotenv.2b8635b7.combine_module__uvqxiubw.4up0txkr_round_11_2228"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 27 new blocks for req session_theskumar__python-dotenv.2b8635b7.combine_module__uvqxiubw.4up0txkr_round_11_2228"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 492345353] preemption: evicting session_theskumar__python-dotenv.2b8635b7.combine_module__uvqxiubw.4up0txkr_round_11_2228 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 30 new blocks for req session_paramiko__paramiko.23f92003.lm_rewrite__u92vz6uj.ihrsln4t_round_12_2295"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.lm_rewrite__u92vz6uj.ihrsln4t_round_12_2295"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_paramiko__paramiko.23f92003.lm_rewrite__u92vz6uj.ihrsln4t_round_12_2295"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 16 new blocks for req session_pydicom__pydicom.7d361b3d.lm_rewrite__bnrxcfyb.c4z1xf2g_round_11_2357"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pydicom__pydicom.7d361b3d.lm_rewrite__bnrxcfyb.c4z1xf2g_round_11_2357"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 503415875] preemption: evicting session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__zlhsjbno.ssn48dpy_round_17_2349 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_theskumar__python-dotenv.2b8635b7.combine_module__uvqxiubw.4up0txkr_round_12_2391"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 507634931] preemption: evicting session_theskumar__python-dotenv.2b8635b7.combine_module__uvqxiubw.4up0txkr_round_12_2391 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_conan-io__conan.86f29e13.pr_17500.h2mu7zio_round_19_2419"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 512046788] preemption: evicting session_conan-io__conan.86f29e13.pr_17500.h2mu7zio_round_19_2419 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__zlhsjbno.ssn48dpy_round_18_2449"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 515916440] preemption: evicting session_marshmallow-code__marshmallow.9716fc62.lm_rewrite__zlhsjbno.ssn48dpy_round_18_2449 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 8 new blocks for req session_facebookresearch__fvcore.a491d5b9.func_pm_ctrl_shuffle__qktgu5i3.isczqw0f_round_12_2456"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_facebookresearch__fvcore.a491d5b9.func_pm_ctrl_shuffle__qktgu5i3.isczqw0f_round_12_2456"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_scrapy__scrapy.35212ec5.pr_5705.h1s6dyem_round_9_2504"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 524913127] preemption: evicting session_scrapy__scrapy.35212ec5.pr_5705.h1s6dyem_round_9_2504 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pydata__patsy.a5d16484.func_pm_ctrl_shuffle__sat9xuvf.xy8f2n7e_round_9_2505"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 526902987] preemption: evicting session_pydata__patsy.a5d16484.func_pm_ctrl_shuffle__sat9xuvf.xy8f2n7e_round_9_2505 to make room"
+time="2026-04-13T07:39:27+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_joke2k__faker.8b401a7d.lm_rewrite__8bb0pic6.shrt124m_round_10_2470"
+time="2026-04-13T07:39:27+03:00" level=warning msg="[tick 549640894] preemption: evicting session_joke2k__faker.8b401a7d.lm_rewrite__8bb0pic6.shrt124m_round_10_2470 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_cloudpipe__cloudpickle.6220b0ce.18.jo8xwbzo_round_11_2495"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 551559634] preemption: evicting session_cloudpipe__cloudpickle.6220b0ce.18.jo8xwbzo_round_11_2495 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_facebookresearch__hydra.0f03eb60.func_pm_remove_cond__u5bb7kvg.wmrhm9fb_round_9_2496"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 553860256] preemption: evicting session_facebookresearch__hydra.0f03eb60.func_pm_remove_cond__u5bb7kvg.wmrhm9fb_round_9_2496 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_lincolnloop__python-qrcode.456b01d4.135.ldpab6ql_round_9_2750"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 569235021] preemption: evicting session_lincolnloop__python-qrcode.456b01d4.135.ldpab6ql_round_9_2750 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_lincolnloop__python-qrcode.456b01d4.135.ldpab6ql_round_9_2750"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 571223033] preemption: evicting session_lincolnloop__python-qrcode.456b01d4.135.ldpab6ql_round_9_2750 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_getmoto__moto.694ce1f4.pr_6509.gqf75an6_round_18_2827"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 584001956] preemption: evicting session_getmoto__moto.694ce1f4.pr_6509.gqf75an6_round_18_2827 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_encode__starlette.db5063c2.func_pm_class_rm_base__jwyals4x.juj3zbhw_round_13_2909"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 618559369] preemption: evicting session_encode__starlette.db5063c2.func_pm_class_rm_base__jwyals4x.juj3zbhw_round_13_2909 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_pydantic__pydantic.acb0f10f.pr_7932.s1bj726t_round_12_2857"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 621031070] preemption: evicting session_pydantic__pydantic.acb0f10f.pr_7932.s1bj726t_round_12_2857 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_getmoto__moto.694ce1f4.pr_6509.gqf75an6_round_19_2916"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 625587139] preemption: evicting session_getmoto__moto.694ce1f4.pr_6509.gqf75an6_round_19_2916 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_seperman__deepdiff.ed252022.lm_rewrite__8antbd9j.63okxalb_round_11_2936"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 635560723] preemption: evicting session_seperman__deepdiff.ed252022.lm_rewrite__8antbd9j.63okxalb_round_11_2936 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_getmoto__moto.694ce1f4.pr_7905.98om7l73_round_13_2956"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 644210613] preemption: evicting session_getmoto__moto.694ce1f4.pr_7905.98om7l73_round_13_2956 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_sloria__environs.73c372df.lm_rewrite__j1p3c330.33mke0ao_round_14_2994"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 670197150] preemption: evicting session_sloria__environs.73c372df.lm_rewrite__j1p3c330.33mke0ao_round_14_2994 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_pydantic__pydantic.acb0f10f.func_pm_remove_assign__077gtphd.dcw69p46_round_12_3026"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 723511452] preemption: evicting session_pydantic__pydantic.acb0f10f.func_pm_remove_assign__077gtphd.dcw69p46_round_12_3026 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_pallets__jinja.ada0a9a6.func_pm_ctrl_shuffle__l3wqpvmt.9olr9260_round_10_3104"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 732798570] preemption: evicting session_pallets__jinja.ada0a9a6.func_pm_ctrl_shuffle__l3wqpvmt.9olr9260_round_10_3104 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_lincolnloop__python-qrcode.456b01d4.combine_file__svo6amwn.fe05o0l2_round_12_3189"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 746717660] preemption: evicting session_lincolnloop__python-qrcode.456b01d4.combine_file__svo6amwn.fe05o0l2_round_12_3189 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 29 new blocks for req session_lincolnloop__python-qrcode.456b01d4.combine_file__svo6amwn.fe05o0l2_round_12_3189"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 748325512] preemption: evicting session_lincolnloop__python-qrcode.456b01d4.combine_file__svo6amwn.fe05o0l2_round_12_3189 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 31 new blocks for req session_pydantic__pydantic.acb0f10f.func_pm_remove_assign__077gtphd.dcw69p46_round_13_3223"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 752648488] preemption: evicting session_pydantic__pydantic.acb0f10f.func_pm_remove_assign__077gtphd.dcw69p46_round_13_3223 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_kurtmckee__feedparser.cad965a3.pr_334.91lr429w_round_10_3281"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 765691367] preemption: evicting session_kurtmckee__feedparser.cad965a3.pr_334.91lr429w_round_10_3281 to make room"
+time="2026-04-13T07:39:28+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_lincolnloop__python-qrcode.456b01d4.105.ztfvr2n2_round_11_3289"
+time="2026-04-13T07:39:28+03:00" level=warning msg="[tick 767241445] preemption: evicting session_lincolnloop__python-qrcode.456b01d4.105.ztfvr2n2_round_11_3289 to make room"
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_0",
+  "completed_requests": 759,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 763,
+  "total_input_tokens": 11728171,
+  "total_output_tokens": 140959,
+  "vllm_estimated_duration_s": 1105.31237,
+  "responses_per_sec": 0.6866837109585591,
+  "tokens_per_sec": 127.52865508960149,
+  "e2e_mean_ms": 28445.926389986824,
+  "e2e_p90_ms": 75277.0906,
+  "e2e_p95_ms": 115580.77989999998,
+  "e2e_p99_ms": 233509.44403999997,
+  "ttft_mean_ms": 3981.6798414154655,
+  "ttft_p90_ms": 13363.2376,
+  "ttft_p95_ms": 16021.38939999999,
+  "ttft_p99_ms": 23422.43841999999,
+  "itl_mean_ms": 135.07626567704773,
+  "itl_p90_ms": 400.285,
+  "itl_p95_ms": 400.799,
+  "itl_p99_ms": 401.313,
+  "scheduling_delay_p99_ms": 20199.081559999995,
+  "preemption_count": 17,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 4
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_1",
+  "completed_requests": 756,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 757,
+  "total_input_tokens": 11165363,
+  "total_output_tokens": 133205,
+  "vllm_estimated_duration_s": 1099.690117,
+  "responses_per_sec": 0.6874663946807116,
+  "tokens_per_sec": 121.12957817915898,
+  "e2e_mean_ms": 38942.20819973545,
+  "e2e_p90_ms": 113914.37350000003,
+  "e2e_p95_ms": 186423.18374999994,
+  "e2e_p99_ms": 261335.19879999998,
+  "ttft_mean_ms": 8331.475664464993,
+  "ttft_p90_ms": 26774.0906,
+  "ttft_p95_ms": 34169.35099999999,
+  "ttft_p99_ms": 38704.0742,
+  "itl_mean_ms": 174.86602115255366,
+  "itl_p90_ms": 400.799,
+  "itl_p95_ms": 400.97,
+  "itl_p99_ms": 401.655,
+  "scheduling_delay_p99_ms": 35619.62324,
+  "preemption_count": 25,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 1
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_2",
+  "completed_requests": 792,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 792,
+  "total_input_tokens": 11215595,
+  "total_output_tokens": 129640,
+  "vllm_estimated_duration_s": 1075.753406,
+  "responses_per_sec": 0.7362282058161571,
+  "tokens_per_sec": 120.51088964899823,
+  "e2e_mean_ms": 25304.038188131315,
+  "e2e_p90_ms": 65613.00480000001,
+  "e2e_p95_ms": 107248.77404999993,
+  "e2e_p99_ms": 178777.37460999997,
+  "ttft_mean_ms": 3256.1640656565655,
+  "ttft_p90_ms": 9583.6547,
+  "ttft_p95_ms": 12268.159549999998,
+  "ttft_p99_ms": 24927.758569999998,
+  "itl_mean_ms": 134.6954358608454,
+  "itl_p90_ms": 400.628,
+  "itl_p95_ms": 400.97,
+  "itl_p99_ms": 401.313,
+  "scheduling_delay_p99_ms": 21880.275939999996,
+  "preemption_count": 18,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_3",
+  "completed_requests": 802,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 803,
+  "total_input_tokens": 10871116,
+  "total_output_tokens": 153196,
+  "vllm_estimated_duration_s": 1085.40031,
+  "responses_per_sec": 0.7388978910462998,
+  "tokens_per_sec": 141.14239565676925,
+  "e2e_mean_ms": 25813.687037406486,
+  "e2e_p90_ms": 67600.82690000001,
+  "e2e_p95_ms": 127219.5374,
+  "e2e_p99_ms": 205157.63423,
+  "ttft_mean_ms": 2534.9734109589044,
+  "ttft_p90_ms": 7821.7748,
+  "ttft_p95_ms": 10702.8988,
+  "ttft_p99_ms": 14304.877139999997,
+  "itl_mean_ms": 122.78245613769698,
+  "itl_p90_ms": 400.114,
+  "itl_p95_ms": 400.457,
+  "itl_p99_ms": 401.142,
+  "scheduling_delay_p99_ms": 11085.54412,
+  "preemption_count": 38,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 1
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_4",
+  "completed_requests": 611,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 614,
+  "total_input_tokens": 9232869,
+  "total_output_tokens": 89810,
+  "vllm_estimated_duration_s": 1130.56773,
+  "responses_per_sec": 0.5404364407252275,
+  "tokens_per_sec": 79.43796520709114,
+  "e2e_mean_ms": 48521.10287070376,
+  "e2e_p90_ms": 131033.557,
+  "e2e_p95_ms": 186820.2904999999,
+  "e2e_p99_ms": 268643.0262,
+  "ttft_mean_ms": 18254.019203583062,
+  "ttft_p90_ms": 53994.9347,
+  "ttft_p95_ms": 57873.56945,
+  "ttft_p99_ms": 61466.248960000004,
+  "itl_mean_ms": 211.68616349074526,
+  "itl_p90_ms": 401.998,
+  "itl_p95_ms": 402.34,
+  "itl_p99_ms": 402.854,
+  "scheduling_delay_p99_ms": 58783.35985,
+  "preemption_count": 8,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 3
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "cluster",
+  "completed_requests": 3720,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 3729,
+  "total_input_tokens": 54213114,
+  "total_output_tokens": 646810,
+  "vllm_estimated_duration_s": 1130.56773,
+  "responses_per_sec": 3.2903822577706157,
+  "tokens_per_sec": 572.1107925130677,
+  "e2e_mean_ms": 32639.92920215054,
+  "e2e_p90_ms": 86829.0001,
+  "e2e_p95_ms": 143245.95964999998,
+  "e2e_p99_ms": 238609.40337999995,
+  "ttft_mean_ms": 6749.096856261732,
+  "ttft_p90_ms": 22199.0696,
+  "ttft_p95_ms": 37045.72559999995,
+  "ttft_p99_ms": 57123.91735999998,
+  "itl_mean_ms": 150.84556519488723,
+  "itl_p90_ms": 400.799,
+  "itl_p95_ms": 401.313,
+  "itl_p99_ms": 402.169,
+  "scheduling_delay_p99_ms": 53962.91575999999,
+  "preemption_count": 106,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 9
+}
+=== Anomaly Counters ===
+Priority Inversions: 0
+HOL Blocking Events: 1
+Rejected Requests (Admission): 0
+Rejected Requests (Routing): 0
+Dropped Unservable: 0
+Length-Capped Requests: 0
+=== KV Cache Metrics ===
+Preemption Rate: 0.0285
+Cache Hit Rate: 0.6862
+KV Thrashing Rate: 0.0000

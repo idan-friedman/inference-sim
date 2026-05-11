@@ -1,0 +1,208 @@
+time="2026-04-12T21:29:27+03:00" level=warning msg="Finding default values of vLLM version for model=mistralai/mistral-small-24b-instruct-2501"
+time="2026-04-12T21:29:27+03:00" level=warning msg="Using default vLLM version=vllm/vllm-openai:v0.8.4"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 22 new blocks for req session_scanny__python-pptx.278b47b1.func_pm_ctrl_shuffle__h23sbi0k.gi4e5mix_round_9_2731"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_scanny__python-pptx.278b47b1.func_pm_ctrl_shuffle__h23sbi0k.gi4e5mix_round_9_2731"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_scanny__python-pptx.278b47b1.func_pm_ctrl_shuffle__h23sbi0k.gi4e5mix_round_9_2731"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_scanny__python-pptx.278b47b1.func_pm_ctrl_shuffle__h23sbi0k.gi4e5mix_round_9_2731"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_scanny__python-pptx.278b47b1.func_pm_ctrl_shuffle__h23sbi0k.gi4e5mix_round_9_2731"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_scanny__python-pptx.278b47b1.func_pm_ctrl_shuffle__h23sbi0k.gi4e5mix_round_9_2731"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_scanny__python-pptx.278b47b1.func_pm_ctrl_shuffle__h23sbi0k.gi4e5mix_round_9_2731"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_scanny__python-pptx.278b47b1.func_pm_ctrl_shuffle__h23sbi0k.gi4e5mix_round_9_2731"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_rustedpy__result.0b855e1e.pr_165.cooprsvt_round_13_2759"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_rustedpy__result.0b855e1e.pr_165.cooprsvt_round_13_2759"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_rustedpy__result.0b855e1e.pr_165.cooprsvt_round_13_2759"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_rustedpy__result.0b855e1e.pr_165.cooprsvt_round_13_2759"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_rustedpy__result.0b855e1e.pr_165.cooprsvt_round_13_2759"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_rustedpy__result.0b855e1e.pr_165.cooprsvt_round_13_2759"
+time="2026-04-12T21:29:29+03:00" level=warning msg="KV cache full: cannot allocate 32 new blocks for req session_rustedpy__result.0b855e1e.pr_165.cooprsvt_round_13_2759"
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_0",
+  "completed_requests": 611,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 611,
+  "total_input_tokens": 8037632,
+  "total_output_tokens": 105919,
+  "vllm_estimated_duration_s": 520.592077,
+  "responses_per_sec": 1.1736636552768742,
+  "tokens_per_sec": 203.45872455527208,
+  "e2e_mean_ms": 8333.843001636662,
+  "e2e_p90_ms": 18367.656,
+  "e2e_p95_ms": 25360.590999999964,
+  "e2e_p99_ms": 46338.18599999999,
+  "ttft_mean_ms": 625.3661292962356,
+  "ttft_p90_ms": 1333.606,
+  "ttft_p95_ms": 2429.2834999999973,
+  "ttft_p99_ms": 5817.332,
+  "itl_mean_ms": 44.466803585758925,
+  "itl_p90_ms": 37.602,
+  "itl_p95_ms": 139.993,
+  "itl_p99_ms": 401.998,
+  "scheduling_delay_p99_ms": 3804.498799999998,
+  "preemption_count": 0,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_1",
+  "completed_requests": 727,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 727,
+  "total_input_tokens": 8505686,
+  "total_output_tokens": 126432,
+  "vllm_estimated_duration_s": 499.968423,
+  "responses_per_sec": 1.4540918317155402,
+  "tokens_per_sec": 252.87997038164949,
+  "e2e_mean_ms": 8590.267629986245,
+  "e2e_p90_ms": 20836.793000000005,
+  "e2e_p95_ms": 25612.616699999995,
+  "e2e_p99_ms": 41949.53148,
+  "ttft_mean_ms": 562.0977524071527,
+  "ttft_p90_ms": 1496.3124000000012,
+  "ttft_p95_ms": 2292.8754999999996,
+  "ttft_p99_ms": 3823.1627799999997,
+  "itl_mean_ms": 46.16299276290812,
+  "itl_p90_ms": 47.553,
+  "itl_p95_ms": 160.64,
+  "itl_p99_ms": 399.772,
+  "scheduling_delay_p99_ms": 2671.5134199999998,
+  "preemption_count": 0,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_2",
+  "completed_requests": 752,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 752,
+  "total_input_tokens": 9564036,
+  "total_output_tokens": 141035,
+  "vllm_estimated_duration_s": 495.162388,
+  "responses_per_sec": 1.5186937017518383,
+  "tokens_per_sec": 284.82575296086503,
+  "e2e_mean_ms": 8680.49251861702,
+  "e2e_p90_ms": 21794.6149,
+  "e2e_p95_ms": 26556.47264999999,
+  "e2e_p99_ms": 43139.19494,
+  "ttft_mean_ms": 590.1405132978724,
+  "ttft_p90_ms": 1443.5288000000003,
+  "ttft_p95_ms": 2272.6374499999984,
+  "ttft_p99_ms": 6337.718479999989,
+  "itl_mean_ms": 43.13783605488,
+  "itl_p90_ms": 41.055,
+  "itl_p95_ms": 114.26,
+  "itl_p99_ms": 400.799,
+  "scheduling_delay_p99_ms": 4325.748379999995,
+  "preemption_count": 0,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_3",
+  "completed_requests": 652,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 652,
+  "total_input_tokens": 8027595,
+  "total_output_tokens": 132279,
+  "vllm_estimated_duration_s": 500.872647,
+  "responses_per_sec": 1.3017281017543767,
+  "tokens_per_sec": 264.0970729631399,
+  "e2e_mean_ms": 8756.736792944785,
+  "e2e_p90_ms": 22040.694400000004,
+  "e2e_p95_ms": 30955.616099999977,
+  "e2e_p99_ms": 45816.62254999998,
+  "ttft_mean_ms": 544.8390582822086,
+  "ttft_p90_ms": 1197.3482,
+  "ttft_p95_ms": 2176.080399999998,
+  "ttft_p99_ms": 4544.43265,
+  "itl_mean_ms": 40.476245836451746,
+  "itl_p90_ms": 32.831,
+  "itl_p95_ms": 95.06569999999978,
+  "itl_p99_ms": 400.628,
+  "scheduling_delay_p99_ms": 3546.90642,
+  "preemption_count": 0,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "instance_4",
+  "completed_requests": 1095,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 1095,
+  "total_input_tokens": 9629008,
+  "total_output_tokens": 176790,
+  "vllm_estimated_duration_s": 548.171229,
+  "responses_per_sec": 1.997551024335135,
+  "tokens_per_sec": 322.5087174358069,
+  "e2e_mean_ms": 15987.195768036529,
+  "e2e_p90_ms": 36118.892400000004,
+  "e2e_p95_ms": 42320.358499999995,
+  "e2e_p99_ms": 52701.57397999999,
+  "ttft_mean_ms": 2693.4464456621004,
+  "ttft_p90_ms": 10518.258,
+  "ttft_p95_ms": 17490.783,
+  "ttft_p99_ms": 23944.945,
+  "itl_mean_ms": 82.33868153176084,
+  "itl_p90_ms": 377.339,
+  "itl_p95_ms": 392.922,
+  "itl_p99_ms": 398.23,
+  "scheduling_delay_p99_ms": 23237.364659999996,
+  "preemption_count": 0,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Simulation Metrics ===
+{
+  "instance_id": "cluster",
+  "completed_requests": 3837,
+  "still_queued": 0,
+  "still_running": 0,
+  "injected_requests": 3837,
+  "total_input_tokens": 43763957,
+  "total_output_tokens": 682455,
+  "vllm_estimated_duration_s": 548.171229,
+  "responses_per_sec": 6.99963769897161,
+  "tokens_per_sec": 1244.9668349887074,
+  "e2e_mean_ms": 10706.334315871774,
+  "e2e_p90_ms": 28284.544,
+  "e2e_p95_ms": 35350.542799999996,
+  "e2e_p99_ms": 47639.17279999999,
+  "ttft_mean_ms": 1182.9784626009905,
+  "ttft_p90_ms": 2136.1000000000013,
+  "ttft_p95_ms": 4897.867799999988,
+  "ttft_p99_ms": 19657.411,
+  "itl_mean_ms": 53.54362765164003,
+  "itl_p90_ms": 77.937,
+  "itl_p95_ms": 373.743,
+  "itl_p99_ms": 400.457,
+  "scheduling_delay_p99_ms": 19149.44427999999,
+  "preemption_count": 0,
+  "dropped_unservable": 0,
+  "length_capped_requests": 0,
+  "timed_out_requests": 0
+}
+=== Anomaly Counters ===
+Priority Inversions: 0
+HOL Blocking Events: 1
+Rejected Requests (Admission): 0
+Rejected Requests (Routing): 0
+Dropped Unservable: 0
+Length-Capped Requests: 0
+=== KV Cache Metrics ===
+Preemption Rate: 0.0000
+Cache Hit Rate: 0.9159
+KV Thrashing Rate: 0.0000
